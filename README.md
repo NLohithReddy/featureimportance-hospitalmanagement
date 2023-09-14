@@ -2,13 +2,8 @@
 
 This repository contains a Python script for analyzing hospital timeliness data using machine learning techniques. It preprocesses the data, trains an XGBoost classifier, and evaluates its accuracy in predicting timeliness ratings for hospitals.
 
-## Table of Contents
+## Code contains
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Data](#data)
 - [Preprocessing](#preprocessing)
 - [Training](#training)
