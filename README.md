@@ -9,8 +9,7 @@ This repository contains a Python script for analyzing hospital timeliness data 
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
